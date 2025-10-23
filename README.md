@@ -1,6 +1,6 @@
 
-# Sorting with Predictions
-This repository is the official implementation of *Sorting with Predictions*.
+# Sorting with Pydictions
+This repository is a student project converting the original into python.
 
 # Run the code
 To run the code, please run the following commands in the terminal:
