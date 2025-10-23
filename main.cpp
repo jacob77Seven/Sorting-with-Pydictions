@@ -202,13 +202,13 @@ void main_relational(int n, int REP, string setting)
 
 int main()
 {
-
     srand(19260817);
     assert(names.size() == algos.size());
     // main2();
     string pred_type, setting;
     int n = 0, rep = 0;
     cin >> pred_type >> setting;
+    printf("Going to run: %s", pred_type.c_str());
     if (pred_type == "positional" || pred_type == "p")
     {
         if (setting == "country" || setting == "c")
@@ -249,11 +249,12 @@ int main()
             names.push_back("BothAlgo_small");
             algos.push_back(new BothAlgo_small());
         }
-
+        
         cin >> n >> rep;
         main_relational(n, rep, setting);
     }
-
+    
+    
     // turn n, rep into string
     string n_str = to_string(n);
     string rep_str = to_string(rep);

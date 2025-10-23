@@ -13,6 +13,8 @@
 #include <cstdio>
 #include <cstdlib>
 #include <cmath>
+#include <cassert>
+#include <functional>
 
 using namespace std;
 const int inf = 1e8;

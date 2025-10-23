@@ -15,4 +15,4 @@ g++ -std=c++17 -O3 \
  algorithms/Cook_Kim.cpp \
  algorithms/Both2.cpp \
  algorithms/Insertion.cpp \
- -o main
+ -o pydict
