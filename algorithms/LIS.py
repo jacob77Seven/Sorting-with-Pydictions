@@ -16,7 +16,7 @@
         A list of integers representing the final sorted ranks.
     """
 
-from bst import SGTree
+from algorithms.sgtree import SGTree
 
 def displacement_sort_bst(game):
     #trivial case
