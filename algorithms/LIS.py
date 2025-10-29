@@ -16,7 +16,7 @@
         A list of integers representing the final sorted ranks.
     """
 
-from bst import BinarySearchTree
+from bst import SGTree
 
 def displacement_sort_bst(game):
     #trivial case
@@ -29,7 +29,7 @@ def displacement_sort_bst(game):
     items_to_process = sorted(range(n), key=lambda item_idx: predictions[item_idx])
 
     #alternative: use a BST with finger search (instead of scapegoat tree)
-    tree = BinarySearchTree() 
+    tree = SGTree()
     finger_node = None
 
     def is_in_range(item_idx, node, game):
