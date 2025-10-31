@@ -1,0 +1,43 @@
+Running relational test: setting=good-dominating, n=10000, rep=10
+Running error rate: 0.00 (0/20)
+  Finished error = 0.00. Time: 51.1889s. Avg clean compares: 324611.9
+Running error rate: 0.05 (1/20)
+  Finished error = 0.05. Time: 53.4509s. Avg clean compares: 326762.4
+Running error rate: 0.10 (2/20)
+  Finished error = 0.10. Time: 53.3708s. Avg clean compares: 325996.4
+Running error rate: 0.15 (3/20)
+  Finished error = 0.15. Time: 55.5346s. Avg clean compares: 322623.8
+Running error rate: 0.20 (4/20)
+  Finished error = 0.20. Time: 56.4140s. Avg clean compares: 326758.6
+Running error rate: 0.25 (5/20)
+  Finished error = 0.25. Time: 58.2100s. Avg clean compares: 326493.9
+Running error rate: 0.30 (6/20)
+  Finished error = 0.30. Time: 60.8310s. Avg clean compares: 334028.9
+Running error rate: 0.35 (7/20)
+  Finished error = 0.35. Time: 59.8266s. Avg clean compares: 327004.5
+Running error rate: 0.40 (8/20)
+  Finished error = 0.40. Time: 61.6698s. Avg clean compares: 324053.0
+Running error rate: 0.45 (9/20)
+  Finished error = 0.45. Time: 64.3973s. Avg clean compares: 328260.8
+Running error rate: 0.50 (10/20)
+  Finished error = 0.50. Time: 67.2113s. Avg clean compares: 324583.7
+Running error rate: 0.55 (11/20)
+  Finished error = 0.55. Time: 70.8097s. Avg clean compares: 327238.7
+Running error rate: 0.60 (12/20)
+  Finished error = 0.60. Time: 73.2076s. Avg clean compares: 328656.5
+Running error rate: 0.65 (13/20)
+  Finished error = 0.65. Time: 76.4651s. Avg clean compares: 327757.3
+Running error rate: 0.70 (14/20)
+  Finished error = 0.70. Time: 79.4434s. Avg clean compares: 326375.7
+Running error rate: 0.75 (15/20)
+  Finished error = 0.75. Time: 82.7492s. Avg clean compares: 318076.9
+Running error rate: 0.80 (16/20)
+  Finished error = 0.80. Time: 86.2405s. Avg clean compares: 319539.2
+Running error rate: 0.85 (17/20)
+  Finished error = 0.85. Time: 90.6322s. Avg clean compares: 316561.8
+Running error rate: 0.90 (18/20)
+  Finished error = 0.90. Time: 95.1466s. Avg clean compares: 307644.3
+Running error rate: 0.95 (19/20)
+  Finished error = 0.95. Time: 99.8255s. Avg clean compares: 300021.1
+Running error rate: 1.00 (20/20)
+  Finished error = 1.00. Time: 102.5289s. Avg clean compares: 252130.9
